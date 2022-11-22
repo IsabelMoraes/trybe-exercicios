@@ -17,3 +17,38 @@ li:hover{
 li{
     list-style: none;
 }
+
+
+
+div:hover{
+    border: 5px solid black;
+}
+
+.primaria{
+    background-color: beige;
+    font-style: italic;
+}
+
+.secundaria{
+    background-color: lightcyan;
+}
+
+.complementar{
+    background-color: beige;
+    font-size: large;
+    font-style: italic;
+}
+
+.escura{
+    background-color: lightcyan;
+}
+
+.clara{
+    background-color: beige;
+    font-style: italic;
+}
+
+h3{
+    align-content: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
