@@ -1,0 +1,19 @@
+h1{
+    align-items: center;
+}
+
+p{
+    align-items: center;
+}
+
+li:hover{
+    background-color:blueviolet ;
+}
+
+li:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    list-style: none;
+}
