@@ -1,4 +1,4 @@
-let menu = ['Home', 'Serviços', 'Portfólio', 'Links'];
+let menu = ['Home', 'Serviços', 'Portifólio', 'Links'];
 
 menu.push('Website');
 
