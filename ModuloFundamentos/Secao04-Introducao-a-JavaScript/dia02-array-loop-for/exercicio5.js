@@ -68,7 +68,7 @@ console.log(minorNumber);
 */
 
 
-let myarray = []
+let myarray = [];
  for ( myarray = 1; myarray <=25; myarray +=1){
     console.log (myarray);
  }
@@ -76,6 +76,6 @@ let myarray = []
 
 
 
-for (let index = 0; index < myarray.length; index +=1) {
-    console.log(myarray[index] / 2);
-}
+for (let index = 0; index < myarray.length; index +=1) 
+    { console.log(myarray[index] / 2);
+};
