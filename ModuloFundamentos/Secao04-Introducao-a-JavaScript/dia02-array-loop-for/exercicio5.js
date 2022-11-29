@@ -65,7 +65,6 @@ console.log(minorNumber);
 
 
 
-*/
 
 
 let myarray = [];
@@ -79,3 +78,15 @@ let myarray = [];
 for (let index = 0; index < myarray.length; index +=1) 
     { console.log(myarray[index] / 2);
 };
+
+
+*/
+
+const n = 5;
+
+let resultado = 0;
+for (let index = 0; index <= n; index += 1) {
+  resultado
+};
+console.log(resultado)
+
