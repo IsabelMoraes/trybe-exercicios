@@ -69,7 +69,13 @@
       }
       maiusculo();
 
-
+      function paragrafos(){
+        let painel = document.getElementsByTagName('p');
+        for (let index = 0; index < painel.length; index +=1) {
+         console.log(painel[index].innerHTML);
+        }
+      }
+      paragrafos();
 
     </script>
   </body>
